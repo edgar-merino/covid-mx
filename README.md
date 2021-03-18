@@ -24,7 +24,7 @@ Done.
 
 The program generates a html interactive file with the generated map. As shown below:
 
-![Plot](https://github.com/edgar-merino/covid-mx/img/covid-mx.png)
+![COVID-MX](https://github.com/edgar-merino/covid-mx/blob/main/img/covid-mx.png?raw=true)
 
 ### Notes
 
